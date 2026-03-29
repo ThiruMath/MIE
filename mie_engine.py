@@ -9,7 +9,7 @@ def get_gemini_client():
         if not api_key or api_key == "PASTE_YOUR_GEMINI_API_KEY_HERE":
             return None
         genai.configure(api_key=api_key)
-        return genai.GenerativeModel('gemini-1.5-pro-latest')
+        return genai.GenerativeModel('gemini-2.0-flash')
     except Exception as e:
         return None
 
