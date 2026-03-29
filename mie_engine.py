@@ -1,6 +1,7 @@
 import google.generativeai as genai
 import streamlit as st
 import json
+import time
 
 def get_gemini_client():
     """Initializes the Gemini API client using Streamlit secrets."""
@@ -53,20 +54,50 @@ def diagnose_mistake(question_text: str, correct_answer: str, student_attempt: s
     }}
     """
 
-    try:
-        response = model.generate_content(
-            prompt,
-            generation_config=genai.types.GenerationConfig(
-                response_mime_type="application/json",
+    max_retries = 3
+    for attempt in range(max_retries):
+        try:
+            response = model.generate_content(
+                prompt,
+                generation_config=genai.types.GenerationConfig(
+                    response_mime_type="application/json",
+                )
             )
-        )
-        # Parse the JSON response
-        result = json.loads(response.text)
-        return result
-    except Exception as e:
-        return {
-            "error": str(e),
-            "diagnosis": "Failed to connect to AI engine.",
-            "error_category": "API Error",
-            "pedagogical_advice": "Please check your network connection and API limits."
-        }
+            result = json.loads(response.text)
+            return result
+
+        except Exception as e:
+            error_str = str(e)
+
+            # Handle rate limiting with retry
+            if "429" in error_str or "quota" in error_str.lower():
+                if attempt < max_retries - 1:
+                    wait_time = (attempt + 1) * 15  # 15s, 30s, 45s
+                    time.sleep(wait_time)
+                    continue
+                else:
+                    return {
+                        "error": "Rate limit exceeded",
+                        "diagnosis": "The Gemini API free-tier quota has been exhausted for today.",
+                        "error_category": "API Error",
+                        "pedagogical_advice": (
+                            "Your API key has hit its daily limit. "
+                            "You can either wait until the quota resets (usually 24 hours), "
+                            "or create a new API key in a new Google Cloud project at "
+                            "https://aistudio.google.com/app/apikey"
+                        )
+                    }
+            else:
+                return {
+                    "error": error_str,
+                    "diagnosis": "Failed to connect to AI engine.",
+                    "error_category": "API Error",
+                    "pedagogical_advice": "Please check your network connection and API key."
+                }
+
+    return {
+        "error": "Max retries reached.",
+        "diagnosis": "Could not get a response after multiple attempts.",
+        "error_category": "API Error",
+        "pedagogical_advice": "Please try again later or check your API quota."
+    }
