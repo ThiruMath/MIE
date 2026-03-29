@@ -1,0 +1,251 @@
+log_id,student_id,question_id,concept_tag,question_text,correct_answer,student_attempt_text,error_type,is_correct,time_to_first_response_ms,hint_requests
+2222b47d,Student_017,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 6 -> x = 3. I subtracted 5 instead of adding.,Procedural,False,78776,0
+9f94b092,Student_017,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 16 -> x = 8,None,True,71786,0
+d53c5f8c,Student_019,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.8 because 8 is larger than 3.,None,True,111761,0
+8073f00c,Student_019,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.355 because 355 is a bigger number than 8.,Conceptual,False,5440,2
+4bba26f2,Student_002,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 6 -> x = 3. I subtracted 5 instead of adding.,Procedural,False,68672,2
+546304f6,Student_008,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,Minus minus makes a minus. So -5 - 3 = -8,Conceptual,False,53407,2
+e2b13a94,Student_005,math_q5,Exponents,Calculate: 3 squared.,9,3 * 2 = 6,Procedural,False,17770,1
+246d9bd6,Student_007,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,3 * 2 = 6 -> 4 + 6 = 10,None,True,80091,0
+24efcb31,Student_004,math_q5,Exponents,Calculate: 3 squared.,9,3 * 3 = 9,None,True,78045,0
+32110626,Student_011,math_q5,Exponents,Calculate: 3 squared.,9,3 * 3 = 9,None,True,76113,0
+75317033,Student_004,math_q5,Exponents,Calculate: 3 squared.,9,3 * 2 = 6,Procedural,False,27058,3
+c81c79b5,Student_014,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,3 * 2 = 6 -> 4 + 6 = 10,None,True,89644,0
+a0b7ee66,Student_006,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,4 + 3 = 7 -> 7 * 2 = 14,Conceptual,False,102009,2
+51bc24ab,Student_004,math_q5,Exponents,Calculate: 3 squared.,9,3 * 3 = 9,None,True,60347,0
+bcc182c0,Student_005,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,4 + 3 = 7 -> 7 * 2 = 14,Conceptual,False,47633,1
+f659039f,Student_012,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,Minus minus makes a minus. So -5 - 3 = -8,Conceptual,False,103091,1
+83865cdd,Student_013,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.8 because 8 is larger than 3.,None,True,31979,0
+9de0819b,Student_015,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.8 because 8 is larger than 3.,None,True,11332,0
+2ccf7373,Student_011,math_q5,Exponents,Calculate: 3 squared.,9,3,Factual,False,46002,1
+65e75c91,Student_015,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,4 + 3 = 7 -> 7 * 2 = 14,Conceptual,False,115165,2
+ca74b044,Student_001,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.8 because 8 is larger than 3.,None,True,89393,0
+93cb5d3c,Student_007,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,4 + 6 = 11,Factual,False,9421,3
+2844fc07,Student_013,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 16 -> x = 8,None,True,90466,0
+1f8a1183,Student_014,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,3 * 2 = 6 -> 4 + 6 = 10,None,True,64936,0
+482d0227,Student_003,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,They are the same.,Factual,False,17898,0
+a9f5346d,Student_011,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,4 + 3 = 7 -> 7 * 2 = 14,Conceptual,False,8876,2
+d1075778,Student_002,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,Minus minus makes a minus. So -5 - 3 = -8,Conceptual,False,82432,3
+5afbc613,Student_005,math_q5,Exponents,Calculate: 3 squared.,9,3,Factual,False,20832,2
+bf4773fc,Student_014,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,They are the same.,Factual,False,33295,0
+45960dd9,Student_016,math_q5,Exponents,Calculate: 3 squared.,9,3 * 3 = 9,None,True,5483,0
+1aab5dfd,Student_009,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,4 + 3 = 7 -> 7 * 2 = 14,Conceptual,False,97750,2
+ef25c933,Student_012,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,4 + 3 = 7 -> 7 * 2 = 14,Conceptual,False,64294,3
+87374b35,Student_013,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.355 because 355 is a bigger number than 8.,Conceptual,False,97325,0
+5e62fefb,Student_008,math_q5,Exponents,Calculate: 3 squared.,9,3,Factual,False,87928,1
+8580a9cd,Student_018,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,They are the same.,Factual,False,17241,2
+9e8a3f5e,Student_018,math_q5,Exponents,Calculate: 3 squared.,9,3,Factual,False,86351,2
+12a42ad1,Student_007,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x - 5 = 11 -> 2x = 11 - 5 = 6 -> x = 3,Procedural,False,88866,1
+0157309c,Student_018,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 16 -> x = 8,None,True,46945,0
+17b39fa4,Student_009,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 16 -> x = 8,None,True,55654,0
+15c422e5,Student_018,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.355 because 355 is a bigger number than 8.,Conceptual,False,66928,1
+cf53fa95,Student_013,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,4 + 6 = 11,Factual,False,50350,3
+bfc6e46f,Student_013,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 16 -> x = 8,None,True,96152,0
+28e66f96,Student_019,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,4 + 3 = 7 -> 7 * 2 = 14,Conceptual,False,53966,1
+32ab88db,Student_019,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.355 because 355 is a bigger number than 8.,Conceptual,False,53656,1
+1794cba6,Student_018,math_q5,Exponents,Calculate: 3 squared.,9,3 * 3 = 9,None,True,47223,0
+fa66af10,Student_018,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,Minus minus makes a minus. So -5 - 3 = -8,Conceptual,False,35655,2
+764a756f,Student_020,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,4 + 6 = 11,Factual,False,114280,1
+717f0213,Student_009,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 - 3 = -8,Procedural,False,25606,0
+c9d7ac6f,Student_007,math_q5,Exponents,Calculate: 3 squared.,9,3 * 3 = 9,None,True,78531,0
+6495464c,Student_003,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 16 -> x = 8,None,True,109795,0
+7d0493bb,Student_017,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.8 because 8 is larger than 3.,None,True,64049,0
+a206dd9e,Student_006,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x - 5 = 11 -> 2x = 11 - 5 = 6 -> x = 3,Procedural,False,61069,0
+150d11fa,Student_007,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x - 5 = 11 -> 2x = 11 - 5 = 6 -> x = 3,Procedural,False,61370,1
+6cbc0b3f,Student_007,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 16 -> x = 8,None,True,92988,0
+268e03da,Student_010,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 6 -> x = 3. I subtracted 5 instead of adding.,Procedural,False,49558,1
+d4e0f708,Student_016,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,4 + 3 = 7 -> 7 * 2 = 14,Conceptual,False,53056,3
+67803a0b,Student_009,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 16 -> x = 8,None,True,92802,0
+8fa92dab,Student_005,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.355 because 355 is a bigger number than 8.,Conceptual,False,26355,0
+d14dc700,Student_017,math_q5,Exponents,Calculate: 3 squared.,9,3,Factual,False,58245,0
+6159f5c7,Student_003,math_q5,Exponents,Calculate: 3 squared.,9,3 * 3 = 9,None,True,54437,0
+fec11756,Student_011,math_q5,Exponents,Calculate: 3 squared.,9,3 * 2 = 6,Procedural,False,86129,0
+3685d4c3,Student_011,math_q5,Exponents,Calculate: 3 squared.,9,3 * 2 = 6,Procedural,False,95928,3
+ef543369,Student_020,math_q5,Exponents,Calculate: 3 squared.,9,3 * 3 = 9,None,True,20866,0
+10ab219b,Student_001,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 16 -> x = 8,None,True,99399,0
+fc0aa300,Student_004,math_q5,Exponents,Calculate: 3 squared.,9,3 * 3 = 9,None,True,68450,0
+a13651fd,Student_019,math_q5,Exponents,Calculate: 3 squared.,9,3 * 2 = 6,Procedural,False,13732,0
+fb941094,Student_001,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,4 + 3 = 7 -> 7 * 2 = 14,Conceptual,False,37869,2
+8e06501e,Student_009,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 6 -> x = 3. I subtracted 5 instead of adding.,Procedural,False,90685,3
+f719ee49,Student_016,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,Minus minus makes a minus. So -5 - 3 = -8,Conceptual,False,55508,2
+7012f587,Student_015,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 16 -> x = 8,None,True,88308,0
+cfac23fa,Student_017,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,Minus minus makes a minus. So -5 - 3 = -8,Conceptual,False,8125,1
+93cf3bab,Student_010,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 + 3 = -2,None,True,109852,0
+99e7cf1c,Student_003,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 - 3 = -8,Procedural,False,22606,1
+f665b70a,Student_007,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,Minus minus makes a minus. So -5 - 3 = -8,Conceptual,False,37370,0
+34c94575,Student_006,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 - 3 = -8,Procedural,False,75780,1
+b9cf8660,Student_014,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 - 3 = -8,Procedural,False,118471,0
+f70c0d9d,Student_020,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.355 because 355 is a bigger number than 8.,Conceptual,False,116377,3
+2cb84bcb,Student_020,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,3 * 2 = 6 -> 4 + 6 = 10,None,True,25562,0
+5081b614,Student_017,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 - 3 = -8,Procedural,False,109548,0
+36b31247,Student_003,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.355 because 355 is a bigger number than 8.,Conceptual,False,49158,0
+8a3fe87a,Student_003,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.355 because 355 is a bigger number than 8.,Conceptual,False,36768,0
+ec33de36,Student_019,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 - 3 = -8,Procedural,False,116238,0
+8e519df8,Student_013,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,They are the same.,Factual,False,40248,3
+7c09b009,Student_005,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.355 because 355 is a bigger number than 8.,Conceptual,False,100219,3
+7bcef7a3,Student_002,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.8 because 8 is larger than 3.,None,True,59681,0
+f0f4a3c0,Student_013,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 6 -> x = 3. I subtracted 5 instead of adding.,Procedural,False,38244,1
+6582c3c2,Student_009,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.355 because 355 is a bigger number than 8.,Conceptual,False,98606,0
+0b688cdb,Student_004,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,4 + 6 = 11,Factual,False,80503,1
+dfa563d9,Student_008,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 - 3 = -8,Procedural,False,87745,3
+af8332b2,Student_008,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,3 * 2 = 6 -> 4 + 6 = 10,None,True,11110,0
+4bde424d,Student_018,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,Minus minus makes a minus. So -5 - 3 = -8,Conceptual,False,60218,1
+9da4f255,Student_005,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.8 because 8 is larger than 3.,None,True,105253,0
+0ddd142d,Student_005,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 6 -> x = 3. I subtracted 5 instead of adding.,Procedural,False,89839,2
+015b3510,Student_009,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 - 3 = -8,Procedural,False,12775,1
+117578a3,Student_020,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,They are the same.,Factual,False,113813,1
+45d0cd14,Student_006,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 16 -> x = 8,None,True,110079,0
+1719a0c9,Student_010,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 16 -> x = 8,None,True,41349,0
+f12d31b8,Student_019,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 + 3 = -2,None,True,10557,0
+1357b1a7,Student_015,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,They are the same.,Factual,False,60522,2
+1103ded9,Student_003,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 6 -> x = 3. I subtracted 5 instead of adding.,Procedural,False,30638,1
+e2e71bdf,Student_014,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.8 because 8 is larger than 3.,None,True,41707,0
+fd8d0f8b,Student_014,math_q5,Exponents,Calculate: 3 squared.,9,3,Factual,False,25616,2
+bda44f63,Student_016,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,3 * 2 = 6 -> 4 + 6 = 10,None,True,94272,0
+a2d66e5c,Student_018,math_q5,Exponents,Calculate: 3 squared.,9,3,Factual,False,102614,0
+a1294f13,Student_004,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 16 -> x = 8,None,True,70532,0
+bffe7b66,Student_006,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 - 3 = -8,Procedural,False,110234,3
+03b2a1a3,Student_019,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 16 -> x = 8,None,True,88545,0
+51fc1f11,Student_006,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,3 * 2 = 6 -> 4 + 6 = 10,None,True,19032,0
+847673f4,Student_016,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x - 5 = 11 -> 2x = 11 - 5 = 6 -> x = 3,Procedural,False,85164,3
+402f1af3,Student_018,math_q5,Exponents,Calculate: 3 squared.,9,3 * 3 = 9,None,True,8157,0
+23226016,Student_009,math_q5,Exponents,Calculate: 3 squared.,9,3 * 2 = 6,Procedural,False,112928,3
+2bd698f1,Student_005,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 + 3 = -2,None,True,8297,0
+98654227,Student_018,math_q5,Exponents,Calculate: 3 squared.,9,3,Factual,False,109023,3
+6ca2f794,Student_009,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 16 -> x = 8,None,True,86597,0
+719fdd2c,Student_015,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.8 because 8 is larger than 3.,None,True,21701,0
+c4f907fd,Student_013,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 - 3 = -8,Procedural,False,59492,3
+6442a90d,Student_002,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,4 + 3 = 7 -> 7 * 2 = 14,Conceptual,False,50090,2
+93f45e02,Student_004,math_q5,Exponents,Calculate: 3 squared.,9,3 * 2 = 6,Procedural,False,53107,3
+ca047b56,Student_003,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.8 because 8 is larger than 3.,None,True,93256,0
+9fdee981,Student_012,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 - 3 = -8,Procedural,False,106901,3
+b80a0fd2,Student_001,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.8 because 8 is larger than 3.,None,True,30116,0
+0eb8ee62,Student_018,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,3 * 2 = 6 -> 4 + 6 = 10,None,True,43550,0
+2b9c61c8,Student_019,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,4 + 3 = 7 -> 7 * 2 = 14,Conceptual,False,108492,0
+d934b11d,Student_017,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,3 * 2 = 6 -> 4 + 6 = 10,None,True,99894,0
+d36537ea,Student_001,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x - 5 = 11 -> 2x = 11 - 5 = 6 -> x = 3,Procedural,False,61741,0
+ac498cb9,Student_018,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 6 -> x = 3. I subtracted 5 instead of adding.,Procedural,False,109204,2
+9f15dcfc,Student_013,math_q5,Exponents,Calculate: 3 squared.,9,3 * 3 = 9,None,True,82527,0
+16b3e95f,Student_020,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,They are the same.,Factual,False,108319,0
+c22e6b4d,Student_020,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,Minus minus makes a minus. So -5 - 3 = -8,Conceptual,False,98640,0
+f71d4933,Student_011,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.8 because 8 is larger than 3.,None,True,81690,0
+3484114f,Student_001,math_q5,Exponents,Calculate: 3 squared.,9,3 * 3 = 9,None,True,64919,0
+0f6df0cc,Student_004,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,They are the same.,Factual,False,42729,2
+de71987a,Student_015,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 16 -> x = 8,None,True,63728,0
+1a34bb44,Student_014,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,3 * 2 = 6 -> 4 + 6 = 10,None,True,23572,0
+3abb9d01,Student_007,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.355 because 355 is a bigger number than 8.,Conceptual,False,84865,1
+adda0d94,Student_018,math_q5,Exponents,Calculate: 3 squared.,9,3,Factual,False,62040,0
+b0b154e7,Student_008,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,3 * 2 = 6 -> 4 + 6 = 10,None,True,47681,0
+61a2f7d0,Student_010,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,They are the same.,Factual,False,73111,1
+5b0301b6,Student_007,math_q5,Exponents,Calculate: 3 squared.,9,3,Factual,False,102713,0
+076355e6,Student_010,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x - 5 = 11 -> 2x = 11 - 5 = 6 -> x = 3,Procedural,False,68666,3
+cfa1977c,Student_009,math_q5,Exponents,Calculate: 3 squared.,9,3 * 2 = 6,Procedural,False,60097,0
+c9fe7ad3,Student_017,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 + 3 = -2,None,True,71192,0
+ccc80e57,Student_015,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x - 5 = 11 -> 2x = 11 - 5 = 6 -> x = 3,Procedural,False,64356,1
+a515d2f2,Student_016,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,Minus minus makes a minus. So -5 - 3 = -8,Conceptual,False,87973,0
+001cf305,Student_015,math_q5,Exponents,Calculate: 3 squared.,9,3,Factual,False,28581,2
+e5f5951a,Student_006,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,4 + 6 = 11,Factual,False,103742,2
+f5d56af2,Student_006,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 + 3 = -2,None,True,51899,0
+8f6c9ed4,Student_013,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 - 3 = -8,Procedural,False,102635,1
+452a88d9,Student_013,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,4 + 3 = 7 -> 7 * 2 = 14,Conceptual,False,84395,1
+6ee504ea,Student_002,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.355 because 355 is a bigger number than 8.,Conceptual,False,51416,0
+153b0a7e,Student_008,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 + 3 = -2,None,True,91839,0
+620df8a8,Student_015,math_q5,Exponents,Calculate: 3 squared.,9,3 * 3 = 9,None,True,24401,0
+98e677be,Student_002,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 16 -> x = 8,None,True,64058,0
+fb76ae30,Student_019,math_q5,Exponents,Calculate: 3 squared.,9,3 * 2 = 6,Procedural,False,51005,2
+995a58ec,Student_020,math_q5,Exponents,Calculate: 3 squared.,9,3 * 3 = 9,None,True,87369,0
+71bc3566,Student_010,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 - 3 = -8,Procedural,False,115633,2
+b0f3b984,Student_008,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,Minus minus makes a minus. So -5 - 3 = -8,Conceptual,False,51892,3
+385d313d,Student_013,math_q5,Exponents,Calculate: 3 squared.,9,3 * 2 = 6,Procedural,False,65059,3
+a079792c,Student_012,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 16 -> x = 8,None,True,79277,0
+5fc732cc,Student_008,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,3 * 2 = 6 -> 4 + 6 = 10,None,True,44499,0
+3ab34166,Student_015,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x - 5 = 11 -> 2x = 11 - 5 = 6 -> x = 3,Procedural,False,70171,0
+41002b5d,Student_018,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 6 -> x = 3. I subtracted 5 instead of adding.,Procedural,False,40435,1
+d2711afc,Student_013,math_q5,Exponents,Calculate: 3 squared.,9,3 * 3 = 9,None,True,119249,0
+1edcb6d0,Student_016,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,4 + 3 = 7 -> 7 * 2 = 14,Conceptual,False,15985,2
+7240b966,Student_003,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,They are the same.,Factual,False,82586,2
+37560d3e,Student_010,math_q5,Exponents,Calculate: 3 squared.,9,3,Factual,False,97186,2
+3c9dcd3b,Student_018,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.8 because 8 is larger than 3.,None,True,40848,0
+98961864,Student_019,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,They are the same.,Factual,False,101227,1
+f76f6a8d,Student_019,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,Minus minus makes a minus. So -5 - 3 = -8,Conceptual,False,8103,2
+6ff82772,Student_013,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.8 because 8 is larger than 3.,None,True,29921,0
+e3ed49fa,Student_002,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,Minus minus makes a minus. So -5 - 3 = -8,Conceptual,False,110512,2
+cbffa0c2,Student_008,math_q5,Exponents,Calculate: 3 squared.,9,3 * 2 = 6,Procedural,False,65169,3
+6bbdd423,Student_010,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 16 -> x = 8,None,True,105723,0
+ab1e8207,Student_020,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 6 -> x = 3. I subtracted 5 instead of adding.,Procedural,False,87365,3
+6f3d5eab,Student_020,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 6 -> x = 3. I subtracted 5 instead of adding.,Procedural,False,6292,2
+e2f6082d,Student_008,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,3 * 2 = 6 -> 4 + 6 = 10,None,True,57284,0
+8b108928,Student_014,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 - 3 = -8,Procedural,False,61051,1
+5b314243,Student_006,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.8 because 8 is larger than 3.,None,True,62836,0
+9fb4c1a7,Student_001,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,4 + 3 = 7 -> 7 * 2 = 14,Conceptual,False,7926,1
+eccc12d5,Student_020,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 - 3 = -8,Procedural,False,95262,0
+4560503f,Student_001,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.355 because 355 is a bigger number than 8.,Conceptual,False,48610,1
+40fc1594,Student_012,math_q5,Exponents,Calculate: 3 squared.,9,3 * 2 = 6,Procedural,False,103021,3
+3df6ee70,Student_007,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 + 3 = -2,None,True,53751,0
+3a6f617d,Student_010,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.8 because 8 is larger than 3.,None,True,55263,0
+1e87446e,Student_002,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x - 5 = 11 -> 2x = 11 - 5 = 6 -> x = 3,Procedural,False,40853,0
+38f5d4db,Student_001,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 - 3 = -8,Procedural,False,27298,3
+00b79f77,Student_019,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 16 -> x = 8,None,True,29184,0
+d044f33a,Student_003,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 16 -> x = 8,None,True,63332,0
+e29f8242,Student_017,math_q5,Exponents,Calculate: 3 squared.,9,3 * 3 = 9,None,True,87659,0
+aa460f36,Student_007,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 + 3 = -2,None,True,11196,0
+6523ce15,Student_006,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,4 + 3 = 7 -> 7 * 2 = 14,Conceptual,False,72183,0
+c86875b4,Student_009,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,They are the same.,Factual,False,51385,1
+4541e6c5,Student_015,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,4 + 6 = 11,Factual,False,87203,1
+53892ab5,Student_020,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.8 because 8 is larger than 3.,None,True,63026,0
+51087168,Student_002,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 - 3 = -8,Procedural,False,89746,2
+46cde717,Student_009,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 - 3 = -8,Procedural,False,25376,3
+2194630e,Student_019,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,3 * 2 = 6 -> 4 + 6 = 10,None,True,49015,0
+a630ceaa,Student_020,math_q5,Exponents,Calculate: 3 squared.,9,3 * 3 = 9,None,True,37879,0
+81ee3d1a,Student_007,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 6 -> x = 3. I subtracted 5 instead of adding.,Procedural,False,19026,2
+eede4204,Student_011,math_q5,Exponents,Calculate: 3 squared.,9,3 * 3 = 9,None,True,39722,0
+ded27e0c,Student_018,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 6 -> x = 3. I subtracted 5 instead of adding.,Procedural,False,10557,2
+4c91d549,Student_002,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.355 because 355 is a bigger number than 8.,Conceptual,False,55691,1
+0e267fb7,Student_009,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,3 * 2 = 6 -> 4 + 6 = 10,None,True,83258,0
+d1acfca1,Student_006,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,Minus minus makes a minus. So -5 - 3 = -8,Conceptual,False,30608,0
+ccf1e4f0,Student_001,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 + 3 = -2,None,True,68216,0
+b6e66357,Student_012,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,They are the same.,Factual,False,41993,0
+b669b5c0,Student_020,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 16 -> x = 8,None,True,36039,0
+052ab30f,Student_004,math_q5,Exponents,Calculate: 3 squared.,9,3 * 2 = 6,Procedural,False,17601,0
+509a76f2,Student_015,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.8 because 8 is larger than 3.,None,True,6811,0
+b4a729ab,Student_002,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.8 because 8 is larger than 3.,None,True,110522,0
+bf0f0310,Student_009,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 + 3 = -2,None,True,73035,0
+4963b3b9,Student_005,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x - 5 = 11 -> 2x = 11 - 5 = 6 -> x = 3,Procedural,False,33621,0
+cd0ff9bc,Student_006,math_q5,Exponents,Calculate: 3 squared.,9,3 * 2 = 6,Procedural,False,15706,1
+89d59871,Student_004,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 + 3 = -2,None,True,82517,0
+4c73ee86,Student_009,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 6 -> x = 3. I subtracted 5 instead of adding.,Procedural,False,15702,3
+0e3c5297,Student_005,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 16 -> x = 8,None,True,113538,0
+a2dc3ba0,Student_010,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 + 3 = -2,None,True,70720,0
+15a771b8,Student_001,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.8 because 8 is larger than 3.,None,True,116548,0
+6e9d0775,Student_018,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,They are the same.,Factual,False,84488,3
+f51cc745,Student_013,math_q5,Exponents,Calculate: 3 squared.,9,3 * 3 = 9,None,True,94591,0
+f7186414,Student_020,math_q5,Exponents,Calculate: 3 squared.,9,3 * 2 = 6,Procedural,False,95473,1
+afe4c1af,Student_005,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,4 + 3 = 7 -> 7 * 2 = 14,Conceptual,False,116970,1
+875ba741,Student_013,math_q5,Exponents,Calculate: 3 squared.,9,3 * 3 = 9,None,True,8090,0
+5684041d,Student_005,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.355 because 355 is a bigger number than 8.,Conceptual,False,59246,0
+2190e6c4,Student_011,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.355 because 355 is a bigger number than 8.,Conceptual,False,91069,3
+04c02a0d,Student_001,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,4 + 6 = 11,Factual,False,36232,0
+f3b595c6,Student_010,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 16 -> x = 8,None,True,44290,0
+c5647e55,Student_012,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 - 3 = -8,Procedural,False,57325,3
+7cebf765,Student_014,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x - 5 = 11 -> 2x = 11 - 5 = 6 -> x = 3,Procedural,False,100795,0
+f22281a1,Student_006,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 6 -> x = 3. I subtracted 5 instead of adding.,Procedural,False,13466,3
+582ec95a,Student_009,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 6 -> x = 3. I subtracted 5 instead of adding.,Procedural,False,13419,1
+e549afcc,Student_007,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 6 -> x = 3. I subtracted 5 instead of adding.,Procedural,False,92968,1
+48a55c52,Student_004,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 16 -> x = 8,None,True,16761,0
+cd6b5dc3,Student_019,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,Minus minus makes a minus. So -5 - 3 = -8,Conceptual,False,21264,3
+e8444b3f,Student_018,math_q5,Exponents,Calculate: 3 squared.,9,3 * 3 = 9,None,True,31714,0
+87670676,Student_016,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.8 because 8 is larger than 3.,None,True,22465,0
+2f538197,Student_008,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.8 because 8 is larger than 3.,None,True,11851,0
+9016a8c7,Student_003,math_q5,Exponents,Calculate: 3 squared.,9,3,Factual,False,60869,1
+14a2213f,Student_002,math_q2,Linear Equations,Solve for x: 2x - 5 = 11,x = 8,2x = 16 -> x = 8,None,True,59504,0
+6f7bf440,Student_011,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,4 + 6 = 11,Factual,False,92003,2
+98db5969,Student_008,math_q5,Exponents,Calculate: 3 squared.,9,3,Factual,False,68292,2
+5ba43123,Student_013,math_q5,Exponents,Calculate: 3 squared.,9,3 * 3 = 9,None,True,93369,0
+37bff9a0,Student_018,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,4 + 6 = 11,Factual,False,96539,3
+8d906b22,Student_018,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.355 because 355 is a bigger number than 8.,Conceptual,False,102444,2
+1d0e3a12,Student_018,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,4 + 6 = 11,Factual,False,26169,0
+d0df6c18,Student_015,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.8 because 8 is larger than 3.,None,True,24258,0
+3bf892c6,Student_007,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 + 3 = -2,None,True,95988,0
+96f69684,Student_020,math_q4,Negative Numbers,Calculate: -5 - (-3),-2,-5 - 3 = -8,Procedural,False,88684,1
+9880c70e,Student_009,math_q1,Decimals & Fractions,Which is larger: 0.8 or 0.355?,0.8,0.8 because 8 is larger than 3.,None,True,73698,0
+1c1ec745,Student_018,math_q3,Order of Operations,Evaluate: 4 + 3 * 2,10,4 + 6 = 11,Factual,False,60057,1

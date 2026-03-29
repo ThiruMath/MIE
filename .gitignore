@@ -1,0 +1,13 @@
+# Streamlit secrets (NEVER COMMIT YOUR API KEY)
+.streamlit/secrets.toml
+
+# Python virtual environments and caches
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.env
+
+# Data
+# (We will commit student_logs.csv for demo purposes, so it's not listed here!)
