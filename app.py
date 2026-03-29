@@ -205,7 +205,7 @@ if df.empty:
 students = ["All Students"] + sorted(df['student_id'].unique().tolist())
 selected_student = st.sidebar.selectbox("Student", students)
 
-error_types = ["All Types"] + sorted([e for e in df['error_type'].unique().tolist() if e != 'None'])
+error_types = ["All Types"] + sorted([e for e in df['error_type'].dropna().unique().tolist() if e != 'None'])
 selected_error = st.sidebar.selectbox("Error Category", error_types)
 
 # Apply filters
